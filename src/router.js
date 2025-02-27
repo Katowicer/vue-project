@@ -3,8 +3,8 @@ import { createRouter, createWebHistory } from 'vue-router';
 import Home from './views/Home.vue';
 import Form from './views/Form.vue';
 const routes = [
-  { path: `/${config.BASE}`, component: Home },
-  { path: `/${config.BASE}/form`, component: Form },
+  { path: "/vue-project", component: Home },
+  { path: "/vue-project/form", component: Form },
 ];
 
 const router = createRouter({
