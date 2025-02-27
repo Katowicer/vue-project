@@ -1,6 +1,8 @@
 # vue-project
 Learning Vue, Vue Router, Pinia with a settings UI to change user preferences and data.
 
+Live preview: https://katowicer.github.io/vue-project/
+
 ## Node dependencies
 ```sh
 vue-project@0.0.0 
@@ -10,7 +12,7 @@ vue-project@0.0.0
 ├── vite@6.2.0
 ├── vue-router@4.5.0
 └── vue@3.5.13
-```sh
+```
 
 Dependencies: 
 - [Vite](https://vite.dev/)
